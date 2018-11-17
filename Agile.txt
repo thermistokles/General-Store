@@ -1,0 +1,58 @@
+The project is about a General Store which has different models ranging from registration to displaying all the data.
+
+          Agile Methodology:
+Agile Methodology has some basic terminologies:
+These include:
+1)Tasks
+2)User Stories
+3)Epics
+4)Sprints
+5)Product backlog
+
+ Tasks:
+These are the basic functionalities needed in a model which the developers have to design in order to support user requirements like Name,Id or anything else.
+These are the smallest units in the web working models.
+
+Example of General Store:
+REGISTRATION FORM
+User name, email, mobile number, city, gender, password and balance form some of the various tasks in the agile methodology. These are defined on the basis of user stories.
+Specific styles are added according to user stories in order to make a human friendly UI.
+
+User Stories:
+These are the various specifications that the user wants. These are taken into consideration while creating the model. These form a vital part in the development process.
+The tasks are defined on the basis of various user stories.
+
+Example of General Store model,
+How the Registration page looks.
+What are the various functionalities in the module.
+How to style the page.
+
+Epics in General Store model:
+EPIC 1:REGISTRATION DETAILS
+EPIC 2:LOGIN
+EPIC 3:DISPLAY ALL
+EPIC 4:WELCOME
+EPIC 5:MYPROFILE
+EPIC 6:LOGOUT
+EPIC 7:BUY PRODUCT
+
+Sprints:
+Sprint 1:
+EPIC 1,EPIC 2:Registration+Login:Sprint 1 includes Registration and Login pages.
+
+Sprint 2:
+EPIC 3,EPIC 4,EPIC 5,EPIC 6:
+Display All, Welcome, My Profile, Logout:
+Sprint 2 includes Display All, Welcome, My Profile, Logout modules.
+
+Sprint 3:
+EPIC 7 : Buy Book : Sprint 7 includes BuyProduct module.
+
+Product backlog:
+1.	Registration
+2.	Login
+3.	Display All
+4.	Welcome
+5.	My Profile
+6.	Logout
+7.	BuyProduct
