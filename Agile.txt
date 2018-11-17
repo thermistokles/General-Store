@@ -32,7 +32,6 @@ EPIC 1:REGISTRATION DETAILS
 EPIC 2:LOGIN
 EPIC 3:DISPLAY ALL
 EPIC 4:WELCOME
-EPIC 5:MYPROFILE
 EPIC 6:LOGOUT
 EPIC 7:BUY PRODUCT
 
@@ -43,7 +42,7 @@ EPIC 1,EPIC 2:Registration+Login:Sprint 1 includes Registration and Login pages.
 Sprint 2:
 EPIC 3,EPIC 4,EPIC 5,EPIC 6:
 Display All, Welcome, My Profile, Logout:
-Sprint 2 includes Display All, Welcome, My Profile, Logout modules.
+Sprint 2 includes Display All, Welcome,  Logout modules.
 
 Sprint 3:
 EPIC 7 : Buy Book : Sprint 7 includes BuyProduct module.
@@ -53,6 +52,5 @@ Product backlog:
 2.	Login
 3.	Display All
 4.	Welcome
-5.	My Profile
 6.	Logout
 7.	BuyProduct
